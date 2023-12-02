@@ -1,6 +1,5 @@
 # Computational Linguistics for Indian Languages (CS689A)
-## Project Members :
-### Drashtant Singh Rathod, Sudiksha Navik
+
 ## Text-To-Speech for Hindi Language 
 This is a Concatenative Text-to-Speech system implemented in Python.<br>
 
